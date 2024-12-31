@@ -15,4 +15,4 @@ the installation same as Luminaire Shot Timer. all you need to tie the reed sens
 
 
 this is the command to load it to the esp32
-arduino-cli upload -i shot_timer.ino.bin -p COM<x> -b esp32:esp32:esp32c3
+arduino-cli upload -i shot_timer.ino.bin -p COMx -b esp32:esp32:esp32c3
